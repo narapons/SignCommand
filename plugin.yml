@@ -2,7 +2,7 @@
 name: SignCommand
 main: Main\main
 version: 2.0.0
-api: 3.3.2,4.0.0
+api: 3.4.0
 author: narapon
 load: POSTWORLD
 description: 看板からコマンドを実行できるように
